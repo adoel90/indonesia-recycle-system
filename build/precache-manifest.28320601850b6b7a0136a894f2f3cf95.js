@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8bcd33ef2f1b168b2ef6aab4ed4bb524",
+    "revision": "1e181076fda09dc0773b24c3d08dc6fa",
     "url": "/indonesia-recycle-system/index.html"
   },
   {
-    "revision": "7d444e4968a758d41830",
+    "revision": "eb954a7323b6e85c3c41",
     "url": "/indonesia-recycle-system/static/css/2.0d743cc7.chunk.css"
   },
   {
-    "revision": "7d444e4968a758d41830",
-    "url": "/indonesia-recycle-system/static/js/2.86ec17cb.chunk.js"
+    "revision": "eb954a7323b6e85c3c41",
+    "url": "/indonesia-recycle-system/static/js/2.b6debc9d.chunk.js"
   },
   {
-    "revision": "c4f7ad23bbefe1630191",
-    "url": "/indonesia-recycle-system/static/js/main.a94768d0.chunk.js"
+    "revision": "9b31bd84afb71a54b714",
+    "url": "/indonesia-recycle-system/static/js/main.342fcefe.chunk.js"
   },
   {
-    "revision": "b6d66b5a00062c5e3ce7",
-    "url": "/indonesia-recycle-system/static/js/runtime-main.34b8b09e.js"
+    "revision": "322843ad087c0dcb5fe8",
+    "url": "/indonesia-recycle-system/static/js/runtime-main.286dc4f8.js"
   },
   {
     "revision": "25bf045ca257e971124f3997d89f321c",
