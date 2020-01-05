@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e181076fda09dc0773b24c3d08dc6fa",
+    "revision": "e67b63607fdb40448540ffc14172a23c",
     "url": "/indonesia-recycle-system/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/indonesia-recycle-system/static/js/2.b6debc9d.chunk.js"
   },
   {
-    "revision": "9b31bd84afb71a54b714",
-    "url": "/indonesia-recycle-system/static/js/main.342fcefe.chunk.js"
+    "revision": "d37e07b72fd65ca4d11d",
+    "url": "/indonesia-recycle-system/static/js/main.13134544.chunk.js"
   },
   {
     "revision": "322843ad087c0dcb5fe8",
