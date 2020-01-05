@@ -14,6 +14,7 @@ import ViewCongratulation from './screen/ViewCongratulation';
 
 
 import NotFoundPage from './screen/NotFoundPage';
+import { Typography } from '@material-ui/core';
 
 
 
@@ -36,7 +37,10 @@ const App = () => {
   
   return (
 
-    routeResult || <NotFoundPage />
+    // routeResult || <NotFoundPage />
+    <Typography variant='h1'>
+      Welcome to the jungle !
+    </Typography>
     
   );
 }
