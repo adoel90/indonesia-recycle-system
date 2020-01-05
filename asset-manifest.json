@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/indonesia-recycle-system/static/js/main.342fcefe.chunk.js",
+    "main.js.map": "/indonesia-recycle-system/static/js/main.342fcefe.chunk.js.map",
+    "runtime-main.js": "/indonesia-recycle-system/static/js/runtime-main.286dc4f8.js",
+    "runtime-main.js.map": "/indonesia-recycle-system/static/js/runtime-main.286dc4f8.js.map",
+    "static/css/2.0d743cc7.chunk.css": "/indonesia-recycle-system/static/css/2.0d743cc7.chunk.css",
+    "static/js/2.b6debc9d.chunk.js": "/indonesia-recycle-system/static/js/2.b6debc9d.chunk.js",
+    "static/js/2.b6debc9d.chunk.js.map": "/indonesia-recycle-system/static/js/2.b6debc9d.chunk.js.map",
+    "index.html": "/indonesia-recycle-system/index.html",
+    "precache-manifest.28320601850b6b7a0136a894f2f3cf95.js": "/indonesia-recycle-system/precache-manifest.28320601850b6b7a0136a894f2f3cf95.js",
+    "service-worker.js": "/indonesia-recycle-system/service-worker.js",
+    "static/css/2.0d743cc7.chunk.css.map": "/indonesia-recycle-system/static/css/2.0d743cc7.chunk.css.map",
+    "static/media/logo.svg": "/indonesia-recycle-system/static/media/logo.25bf045c.svg",
+    "static/media/map_gojek2.jpg": "/indonesia-recycle-system/static/media/map_gojek2.7c43bd22.jpg",
+    "static/media/index.css": "/indonesia-recycle-system/static/media/open-sans-latin-800italic.c62c3eea.woff2",
+    "static/media/sampah_boncos.jpeg": "/indonesia-recycle-system/static/media/sampah_boncos.4f3e4f58.jpeg",
+    "static/media/sampah_botol_bening.jpeg": "/indonesia-recycle-system/static/media/sampah_botol_bening.dc74916d.jpeg",
+    "static/media/sampah_gabruk.jpeg": "/indonesia-recycle-system/static/media/sampah_gabruk.8010bafa.jpeg"
+  }
+}
